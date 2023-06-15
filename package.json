@@ -1,0 +1,15 @@
+{
+    "name": "draw_chart",
+    "version": "1.0.0",
+    "description": "Node.js on Docker with Express and EJS",
+    "author": "Shu Iida",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.3",
+      "ejs": "^3.1.8"
+    }
+  }
+  
